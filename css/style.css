@@ -1,0 +1,41 @@
+h1{
+background-color: green;
+color: white;
+text-align: center;
+border-radius: 20%;
+font-style: oblique;
+border: 1px solid black;}
+h1:hover{
+border: 2px solid blue;}
+ol{
+border: 2px solid lightgray;}
+ol li{ color: darkslateblue;
+	padding: 20px;
+}
+iframe{ height: 300px;
+	width: 50%;
+}
+ul{
+border: 2px solid lightgray;}
+ul li{ color: darkslateblue;
+	padding: 20px;
+}
+table tr td{
+border: 1px solid black;
+padding: 10px;
+background-color: yellow;}
+
+.youtube{ height: 500px;
+width: 50%;
+margin: 30px;
+float: right;  
+border: 1px solid black;
+ }
+
+
+
+
+
+
+
+
